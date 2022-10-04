@@ -100,7 +100,7 @@ body {
     color: #000;
     background-color: var(--bg-techs);
     border-radius: 30px;
-    padding: 2px;
+    padding: 3px;
 }
 
 .tecnologies li:nth-child(-n+2) {
